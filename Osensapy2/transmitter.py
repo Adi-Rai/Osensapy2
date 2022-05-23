@@ -1,4 +1,4 @@
-from minimalmodbusosensa import Instrument, SecurityError, _SERIALPORTS, CLOSE_PORT_AFTER_EACH_CALL
+from .minimalmodbusosensa import Instrument, SecurityError, _SERIALPORTS, CLOSE_PORT_AFTER_EACH_CALL
 import serial 
 
 BAUDRATE = 9600
