@@ -1,0 +1,11 @@
+setup.py
+Osensapy2/__init__.py
+Osensapy2/minimalmodbusosensa.py
+Osensapy2/port_list.py
+Osensapy2/transmitter.py
+Osensapy2.egg-info/PKG-INFO
+Osensapy2.egg-info/SOURCES.txt
+Osensapy2.egg-info/dependency_links.txt
+Osensapy2.egg-info/requires.txt
+Osensapy2.egg-info/top_level.txt
+test/test.py
