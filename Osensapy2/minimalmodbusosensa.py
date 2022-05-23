@@ -38,7 +38,7 @@ Changes:        - Add support for a custom modbus command format
 """
 
 import os
-import serial
+from serial import serial
 import struct
 import sys
 import time
