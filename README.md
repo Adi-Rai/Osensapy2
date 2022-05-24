@@ -1,5 +1,5 @@
 # Osensapy2
-My version of Osensapy package to run in Julia. <br /> <br /> <br />
+My version of Osensapy package to run in Julia. <br /> <br /> 
 Download this package by running: "pip install git+https://github.com/Adi-Rai/Osensapy2.git" <br /> <br /> 
 After downloading this package in your preferred python environment, set the PyCall environment to the same path. <br />
 For eg: ENV["PYTHON"] = raw"C:\Users\<your_name>\anaconda3\python.exe" <br /><br /> 
